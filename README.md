@@ -11,6 +11,7 @@
 
 
 __Syph__
+
 <img src="https://i.giphy.com/media/WtaLybco6QwthfsJBS/giphy.webp" alt="Banner"> 
 
 ```python
