@@ -1,4 +1,4 @@
-## Hey, 👋 I'm Syph.
+## Hey, 👋 I'm Syph. <img src="https://cdn.discordapp.com/attachments/1135539699826561067/1135539743321489499/IMG_7999.jpg" width=50 height=50 alt="Banner">
 
 ### Some things about me.
 - I love cybersecurity
@@ -14,5 +14,5 @@ while True:
   print('Syphilusss')
 time.sleep(.9)
 ```
-e <img src="https://cdn.discordapp.com/attachments/1135539699826561067/1135539743321489499/IMG_7999.jpg" width=100 height=100 alt="Banner">
 
+__Syph__
