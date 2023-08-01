@@ -10,6 +10,7 @@
 [Discord (ID)](https://pastebin.com/raw/nKzxtFX2)
 
 
+__Syph__
 <img src="https://i.giphy.com/media/WtaLybco6QwthfsJBS/giphy.webp" alt="Banner"> 
 
 ```python
@@ -18,5 +19,3 @@ while True:
   print('Syphilusss')
 time.sleep(.9)
 ```
-
-__Syph__
