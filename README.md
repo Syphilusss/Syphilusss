@@ -6,6 +6,7 @@
 - I love the color blue
 
 [Join me here! Telegram ✈️](https://pastebin.com/raw/h3FwWcx7)
+
 [Discord (ID)](https://pastebin.com/raw/nKzxtFX2)
 
 ```python
@@ -14,5 +15,6 @@ while True:
   print('Syphilusss')
 time.sleep(.9)
 ```
+<img src="https://i.giphy.com/media/WtaLybco6QwthfsJBS/giphy.webp" alt="Banner">
 
 __Syph__
