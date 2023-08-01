@@ -5,8 +5,8 @@
 - __I make code when I'm bored__
 - __I love the color blue__
 
-[Join me here! Telegram ✈️](https://pastebin.com/raw/h3FwWcx7)
-
+## Socials
+[Telegram ✈️](https://pastebin.com/raw/h3FwWcx7) |
 [Discord (ID)](https://pastebin.com/raw/nKzxtFX2)
 
 
