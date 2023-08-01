@@ -10,7 +10,7 @@
 [Discord (ID)](https://pastebin.com/raw/nKzxtFX2)
 
 
-__Syph__
+## __Syph__
 
 <img src="https://i.giphy.com/media/WtaLybco6QwthfsJBS/giphy.webp" alt="Banner"> 
 
