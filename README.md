@@ -7,7 +7,7 @@
 
 ## Socials
 [Telegram ✈️](https://pastebin.com/raw/h3FwWcx7) |
-[Discord (ID)](https://pastebin.com/raw/nKzxtFX2)
+[Discord 💌](https://pastebin.com/raw/nKzxtFX2)
 
 
 ## __Syph__
